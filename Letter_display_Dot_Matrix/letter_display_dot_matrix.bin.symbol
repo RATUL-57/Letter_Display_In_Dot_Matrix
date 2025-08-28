@@ -1,0 +1,44 @@
+< THE SYMBOL TABLE >  letter_display_dot_matrix.bin  --  emu8086 assembler version: 4.08 
+===================================================================================================
+Name                     	Offset    	Size      	Type      	Segment   
+===================================================================================================
+CODE                     	00000     	-5        	SEGMENT   	(ITSELF)  
+START                    	00000     	-1        	LABEL     	CODE      
+MAIN_LOOP                	00017     	-1        	LABEL     	CODE      
+DISPLAY_DIGIT            	00179     	-1        	LABEL     	CODE      
+REFRESH_LOOP             	0017A     	-1        	LABEL     	CODE      
+ROW_LOOP                 	00181     	-1        	LABEL     	CODE      
+ROW_SWITCH_DELAY         	0018A     	-1        	LABEL     	CODE      
+STABILIZE_DELAY          	00198     	-1        	LABEL     	CODE      
+ROW_DELAY                	001A4     	-1        	LABEL     	CODE      
+FONT_A                   	001BE     	-1        	LABEL     	CODE      
+FONT_B                   	001C6     	-1        	LABEL     	CODE      
+FONT_C                   	001CE     	-1        	LABEL     	CODE      
+FONT_D                   	001D6     	-1        	LABEL     	CODE      
+FONT_E                   	001DE     	-1        	LABEL     	CODE      
+FONT_F                   	001E6     	-1        	LABEL     	CODE      
+FONT_G                   	001EE     	-1        	LABEL     	CODE      
+FONT_H                   	001F6     	-1        	LABEL     	CODE      
+FONT_I                   	001FE     	-1        	LABEL     	CODE      
+FONT_J                   	00206     	-1        	LABEL     	CODE      
+FONT_K                   	0020E     	-1        	LABEL     	CODE      
+FONT_L                   	00216     	-1        	LABEL     	CODE      
+FONT_M                   	0021E     	-1        	LABEL     	CODE      
+FONT_N                   	00226     	-1        	LABEL     	CODE      
+FONT_O                   	0022E     	-1        	LABEL     	CODE      
+FONT_P                   	00236     	-1        	LABEL     	CODE      
+FONT_Q                   	0023E     	-1        	LABEL     	CODE      
+FONT_R                   	00246     	-1        	LABEL     	CODE      
+FONT_S                   	0024E     	-1        	LABEL     	CODE      
+FONT_T                   	00256     	-1        	LABEL     	CODE      
+FONT_U                   	0025E     	-1        	LABEL     	CODE      
+FONT_V                   	00266     	-1        	LABEL     	CODE      
+FONT_W                   	0026E     	-1        	LABEL     	CODE      
+FONT_X                   	00276     	-1        	LABEL     	CODE      
+FONT_Y                   	0027E     	-1        	LABEL     	CODE      
+FONT_Z                   	00286     	-1        	LABEL     	CODE      
+FONT_BLANK               	0028E     	-1        	LABEL     	CODE      
+===================================================================================================
+[ 8/28/2025  --  10:59:40 PM ] 
+< END >
+ 
